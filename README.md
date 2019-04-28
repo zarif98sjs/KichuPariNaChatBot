@@ -11,3 +11,10 @@ The key features that have been implemented:
 6. Show lyrics of a specific song
 
 We tried our best even though the topics were really unfamiliar to us. Hopefully our efforts satisfy you.
+
+Best Regards,
+Team KichuPariNa
+-> Md. Zarif Ul Alam 
+-> Najibul Haque Sarker
+-> Apurba Saha 
+BUET CSE '17
