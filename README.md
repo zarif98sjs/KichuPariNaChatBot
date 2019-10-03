@@ -23,3 +23,10 @@ Team KichuPariNa
 -> Apurba Saha #1705056
 
 BUET CSE '17
+
+
+
+<h1>VERDICT</h1>
+We won 2nd place in Hackathon of Buet CSE Fest 2019.
+
+<img src="IMG_0792.jpg" width="500">
